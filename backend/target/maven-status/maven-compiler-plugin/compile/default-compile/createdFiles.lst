@@ -1,0 +1,4 @@
+com\shortener\Main.class
+com\shortener\util\UrlStore.class
+com\shortener\handler\RedirectHandler.class
+com\shortener\handler\ShortenHandler.class
