@@ -2,18 +2,18 @@
 
 A simple full-stack project that shortens URLs, using Java (HTTPServer) for the backend and HTML/CSS/JS for the frontend.
 
-## 🚀 Features
+##  Features
 - Generate short URL codes
 - Redirect to original URL
 - JSON-based API
 - Simple UI
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Backend: Java (com.sun.net.httpserver)
 - Frontend: HTML, CSS, JavaScript
 - Build: Maven
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### Backend
 ```bash
